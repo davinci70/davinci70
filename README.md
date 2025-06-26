@@ -1,65 +1,55 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi there 👋, I'm Mohammed Ahmed Ibrahim</h1>
 
-###
+<p align="center">
+  A passionate .NET Backend Developer from Egypt 🇪🇬
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 🔭 I’m currently working as a junior .NET backend developer  
+- 🧠 I’m confident in working directly with SQL Server using ADO.NET, and with ORMs like Entity Framework Core  
+- 💡 I’ve built and contributed to real-world systems like **e-commerce platforms**, **library management**, and **vehicle rental systems**  
+- 📚 Currently learning advanced ASP.NET Core concepts like clean architecture, layered APIs, and secure backend development  
+- ⚡ In my free time, I play video games like FIFA and GTA V, and build side projects to improve my skills  
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🛠️ Languages and Tools
 
-###
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-006400?style=flat-square)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-003B57?style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![ML.NET](https://img.shields.io/badge/-ML.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 📌 Projects I Worked On
 
-<p align="left">I'm Mohammed Elkashef from Egypt<br><br>- 🔭 I’m working as a .NET Backend Developer<br>- 📚 I'm currently learning dvanced concepts in ASP.NET Core<br>- ⚡ In my free time I work on personal projects to sharpen my skills</p>
+- 🛒 **E-Commerce Website** — with Admin, Seller, and Customer roles, order management, payment logic, and review filtering using ML.NET  
+- 🚗 **Vehicle Rental Management System** — inventory, reservations, and payment tracking for rental companies  
+- 📚 **Book Library Management System** — user management, borrowing/returning flow, and cataloging  
+- 🎫 **Theater Booking System** — with role-based access, schedule management, and EF Core-powered backend  
+- 🚦 **Driving License Management System** — streamlining license issuing, renewal, and data validation
 
-###
+---
 
-<h3 align="left">🛠 Languages</h3>
+### 📫 Connect With Me
 
-###
+- LinkedIn: [linkedin.com/in/mohammed-ibrahim](https://www.linkedin.com/in/mohammed-ibrahim)
+- GitHub: [github.com/mohammedahmedibrahim](https://github.com/mohammedahmedibrahim)
+- Email: `your-email@example.com`
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
+---
 
-###
-
-<h3 align="left">🛠 Frameworks & Technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  Thanks for visiting my profile! ⭐️
+</p>

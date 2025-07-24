@@ -1,51 +1,44 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">I'm Mohammed Elkashef</h1>
 
-###
+<h2 align="center">Software Engineer | .NET Developer | Backend</h2>
+<br>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=mohammed+elkashef"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
+    </a>
+  </p>
 
-###
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
+  </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h3 align="left">📤 Connect with Me:</h3>
+  <p align="left">
+    <a href="mailto:muhammed.elkashef7@gmail.com"> <!-- Gmail -->
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/mohammed-elkashef-70a312231/"> <!-- LinkedIn Profile -->
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+    </a>&nbsp;
+  </p>
 
-###
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  </p>
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">🏆 GitHub Trophies:</h3>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
 
-###
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Mohammed from Egypt<br><br>- 🔭 I’m working as a .NET Backend Developer<br>- 📚 I'm currently learning advanced concepts in ASP.NET Core<br>- ⚡ In my free time I work on personal projects to sharpen my skills</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>

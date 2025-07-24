@@ -3,16 +3,6 @@
 <h2 align="center">Software Engineer | .NET Developer </h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=mohammed+elkashef"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=2000"> <!-- Text -->
-    </a>
-  </p>
-
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="25"/> <!-- Profile Views -->
-  </p>
-
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
     <a href="mailto:muhammed.elkashef7@gmail.com"> <!-- Gmail -->

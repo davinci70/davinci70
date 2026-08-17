@@ -1,6 +1,6 @@
 <h1 align="center">I'm Mohammed Elkashef</h1>
 
-<h2 align="center">Software Engineer | .NET Developer </h2>
+<h2 align="center">.NET Developer </h2>
 <br>
 
 <h3 align="left">📤 Connect with Me:</h3>
